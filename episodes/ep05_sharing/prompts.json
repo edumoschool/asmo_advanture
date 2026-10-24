@@ -1,0 +1,72 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 5-qism: Bo‘lishish — bu baxt!",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing yellow overalls over a white striped t-shirt. Asmo is in a bright, colorful playroom with her friend Ali, a cute 4-year-old Uzbek boy with short black hair wearing a blue t-shirt and denim shorts. Both children are holding onto the same shiny red wooden toy train, pulling it slightly toward themselves with cute pouting expressions.",
+      "video_motion_prompt": "Asmo and the little boy gently tug the red wooden toy train back and forth between them, both looking determined and pouting cutely.",
+      "voiceover_uz": "Bu mening poyezdim! Yo‘q, men o‘ynayman! Voy, bitta o‘yinchoqni qanday bo‘lishamiz?",
+      "sfx": "Funny cartoon tug squeak sound and cute kids pouting hum"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing yellow overalls. Asmo is sitting on a soft playroom rug holding the red wooden toy train by herself, looking back with a guilty, sad expression at her friend Ali, a cute 4-year-old boy in a blue t-shirt, who is sitting in the background looking bored and lonely.",
+      "video_motion_prompt": "Asmo pushes the red toy train slowly on the rug by herself, sighs with boredom, and looks back sympathetically at her sad friend.",
+      "voiceover_uz": "Poyezdni o‘zim oldim, lekin... do‘stim xafa bo‘lib qoldi. Yolg‘iz o‘ynash juda zerikarli ekan!",
+      "sfx": "Slow wooden wheel roll and a sad sympathetic sigh"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing yellow overalls. Close-up shot of Asmo in the bright playroom looking at a colorful basket of wooden train tracks and building blocks. Her eyes sparkle with a bright Eureka idea, and she has an excited smile on her face.",
+      "video_motion_prompt": "Asmo's face lights up with a big joyful smile, she raises one finger in an Aha gesture and claps her hands excitedly.",
+      "voiceover_uz": "A-ha! Topdim! Axir biz birga o‘ynasak, yanada qiziqroq bo‘ladi-ku!",
+      "sfx": "Magical idea ding bell sound and cheerful music starts"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes and black hair in two pigtails with yellow hairbands, wearing yellow overalls, is kneeling on the playroom rug next to Ali, a cute 4-year-old boy in a blue t-shirt. Asmo is warmly offering him the red wooden toy train and a wooden track piece with a kind, friendly smile. Ali smiles back happily.",
+      "video_motion_prompt": "Asmo hands the red toy train to her friend with a warm smile. The little boy's face brightens up and he nods eagerly.",
+      "voiceover_uz": "Kel, Ali! Talashmaymiz, birgalikda katta temir yo‘l va bekat quramiz!",
+      "sfx": "Warm harp glissando and happy kids giggling"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. High-angle shot of Asmo (5-year-old girl in yellow overalls with two pigtails) and Ali (4-year-old boy in a blue t-shirt) sitting together on the sunny playroom rug, happily connecting wooden train tracks in a big circle and stacking colorful wooden blocks into a bridge.",
+      "video_motion_prompt": "Asmo places a colorful block on top of a toy bridge while Ali connects the wooden track underneath. Both children laugh and work together smoothly.",
+      "voiceover_uz": "Sen relslarni ula, men esa kubiklardan baland ko‘prik quraman! Qara, qanday zo‘r chiqyapti!",
+      "sfx": "Playful wooden block clacking sounds and upbeat melody"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Low-angle dynamic shot of a shiny red wooden toy train rolling across a completed wooden track under a colorful block bridge. Asmo (5-year-old girl in yellow overalls) and Ali (4-year-old boy in a blue t-shirt) are cheering and clapping happily in the background, 8k resolution.",
+      "video_motion_prompt": "The red toy train glides smoothly along the wooden track under the block bridge while Asmo and Ali jump and cheer with pure excitement.",
+      "voiceover_uz": "Chuf-chuf, poyezd yo‘lga chiqdi! Navbat bilan o‘ynaganimizda o‘yinimiz ikki barobar qiziqarli bo‘ldi!",
+      "sfx": "Cute cartoon train choo-choo whistle and children cheering"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old girl in yellow overalls with two pigtails) and Ali (4-year-old boy in a blue t-shirt) sitting by their toy train set, giving each other an enthusiastic high-five with big beaming smiles. Cute golden star sparkles burst around their hands.",
+      "video_motion_prompt": "Asmo and Ali give each other a cheerful high-five, tiny golden star sparkles pop in the air, and both children giggle happily.",
+      "voiceover_uz": "Demak, do‘stlar bilan bo‘lishish — bu haqiqiy baxt ekan!",
+      "sfx": "Crisp high-five slap sound and magical star chime"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in yellow overalls with two pigtails) and Ali (4-year-old boy in a blue t-shirt) standing side by side in the bright playroom, facing the camera directly, smiling warmly and waving their hands.",
+      "video_motion_prompt": "Asmo and Ali wave enthusiastically at the camera with big bright smiles, bouncing slightly in sync. Cheerful ending frame.",
+      "voiceover_uz": "Siz ham o‘yinchoqlaringizni do‘stlaringiz bilan bo‘lishib o‘ynaysizmi? Izohlarda yozing! Xayr!",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    }
+  ]
+}

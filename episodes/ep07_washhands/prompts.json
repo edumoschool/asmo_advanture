@@ -1,0 +1,81 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 7-qism: Ko‘rinmas mikrobchalar",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing yellow overalls. Asmo is in a bright sunny kitchen holding a colorful soccer ball under one arm, reaching with her other hand toward a wooden bowl of shiny red apples on the table.",
+      "video_motion_prompt": "Asmo puts her colorful ball down and reaches eagerly for a shiny red apple on the kitchen table with a hungry smile.",
+      "voiceover_uz": "Bog‘da koptok o‘ynab juda qornim ochdi! Hozir bu shirin qizil olmani yeyman!",
+      "sfx": "Bouncing ball thump sound and happy child voice"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) pauses in the kitchen, holding both of her hands palms-up in front of her face, looking at them with a confident, slightly puzzled expression.",
+      "video_motion_prompt": "Asmo stops reaching for the apple, turns her palms up to inspect both hands, and shrugs her shoulders cutely.",
+      "voiceover_uz": "Oyijonim avval qo‘lingni yuv dedilar. Lekin qaranglar, qo‘lim top-toza ko‘rinyapti-ku!",
+      "sfx": "Cute cartoon pause sound and curious pizzicato strings"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Close-up view through Asmo's yellow magnifying glass held over her open palm: inside the magnifying glass lens, tiny, silly, cartoon green dust-germs with big goofy eyes are sitting on her hand, waving playfully. Non-scary cute Pixar design, 8k resolution.",
+      "video_motion_prompt": "Through the magnifying glass lens, three tiny silly green cartoon germs wiggle and bounce playfully on her palm while Asmo gasps in surprise in the background.",
+      "voiceover_uz": "Voy! Lupada qarasam... qo‘limda ko‘zga ko‘rinmas kichkina mikrobchalar o‘tirgan ekan-ku!",
+      "sfx": "Magnifying glass zoom whoosh and silly tiny cartoon giggles"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) is standing on a step stool at a bright bathroom sink, pressing a cute pink liquid soap dispenser with a determined, happy smile.",
+      "video_motion_prompt": "Asmo presses the pink soap dispenser pump, and a dollop of sparkly pink scented soap lands on her palm as she smiles.",
+      "voiceover_uz": "Bunday qo‘l bilan olma yeb bo‘lmaydi! Yordamga xushbo‘y sovun va iliq suv keladi!",
+      "sfx": "Cute soap pump squirt sound and magical sparkle chime"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Close-up shot of Asmo rubbing her hands together under running water at the bathroom sink. Her hands are covered in thick, fluffy, sparkling white soap foam bubbles that look like cute foam gloves. 8k resolution.",
+      "video_motion_prompt": "Asmo rubs her soapy hands together energetically, scrubbing between her fingers and the backs of her hands as iridescent soap bubbles float up.",
+      "voiceover_uz": "Qo‘limizni ko‘pirtirib, barmoqlar orasini va kaftimizni yigirma soniya yaxshilab ishqalaymiz!",
+      "sfx": "Bubbly soapy hand scrubbing sound and floating bubble pops"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Cartoon close-up at the sink: clear sparkling water rinses the fluffy white soap foam off Asmo's hands, washing the tiny surprised green cartoon germs down the sink drain.",
+      "video_motion_prompt": "Sparkling clear water flows over Asmo's hands, sweeping the soap bubbles and the silly little green germs smoothly down the drain.",
+      "voiceover_uz": "Endi toza suv bilan chayamiz — ko‘piklar barcha mikrobchalarni oqizib ketdi! Xayr, mikrobchalar!",
+      "sfx": "Rinsing water splash and funny cartoon sliding down the drain sound"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) is in the sunny kitchen, holding up her sparkling clean hands with bright cartoon star-glints, and happily taking a bite of a shiny red apple.",
+      "video_motion_prompt": "Asmo admires her sparkling clean hands, then takes a big happy crunchy bite out of the shiny red apple, smiling with delight.",
+      "voiceover_uz": "Ana endi qo‘llarim haqiqatan ham top-toza bo‘ldi! Olmani bemalol yesam bo‘ladi!",
+      "sfx": "Bright clean sparkle ding followed by a crisp apple crunch"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in yellow overalls with two pigtails) facing the camera directly, holding the red apple in one hand and showing her clean, sparkling open palm with the other hand, smiling warmly.",
+      "video_motion_prompt": "Asmo waves her clean sparkling hand enthusiastically at the camera with a big bright smile. Cheerful ending frame.",
+      "voiceover_uz": "Ko‘chadan kelganda va ovqatdan oldin qo‘l yuvishni unutmang! Xayr, do‘stlar!",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    },
+    {
+      "scene_id": "scene_09",
+      "is_musical_outro": true,
+      "duration": 12,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old Uzbek girl in yellow overalls with two bouncy pigtails) dancing and singing happily in a bright colorful bathroom surrounded by floating iridescent soap bubbles, sparkles, and 3D musical notes, 8k resolution.",
+      "video_motion_prompt": "Asmo dances rhythmically side to side, rolling her clean hands PLAYFULLY and singing happily to the camera as shiny soap bubbles and musical notes float around her. Seamless loop.",
+      "voiceover_uz": "🎵 Sovun olib ko‘pirtiramiz, barmoqlarni ishqalaymiz! Suv bilan chayar ekanmiz, mikroblarni haydaymiz! 🎵",
+      "sfx": "Suno AI Children's Outro Song (outro_song.mp3)"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 6-qism: Kamalak qayerdan chiqadi?",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing a cute shiny yellow raincoat over her striped shirt, and red rain boots. Bright lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing a shiny yellow raincoat and red rain boots. Asmo is stepping out into a fresh green garden right after the rain. Water droplets glisten on green leaves as warm golden sunbeams break through fluffy white clouds.",
+      "video_motion_prompt": "Asmo steps happily onto the wet garden path, holding out her hand to catch the last sparkling raindrop as bright sunlight warms the garden.",
+      "voiceover_uz": "Yomg‘ir to‘xtab, quyosh chiqdi! Havo qanday toza va yoqimli-a?",
+      "sfx": "Last soft raindrop plink, warm breeze and cheerful birds chirping"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Low angle shot of Asmo (5-year-old girl in a shiny yellow raincoat with two pigtails) looking up at the bright blue sky in pure amazement. Stretching across the sky above the garden is a huge, vibrant, glowing seven-colored rainbow. 8k resolution.",
+      "video_motion_prompt": "Camera tilts up slightly as Asmo gasps with wide sparkling eyes and points her finger up at the giant glowing rainbow in the sky.",
+      "voiceover_uz": "Voy, osmonga qaranglar! U yerda juda chiroyli, rang-barang ko‘prik paydo bo‘libdi!",
+      "sfx": "Magical orchestral harp swell and child's amazed gasp"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in a yellow raincoat and red rain boots) is running playfully along the wet garden path toward the colorful rainbow in the distance, splashing lightly through a small shiny puddle.",
+      "video_motion_prompt": "Asmo runs forward cheerfully, making a tiny splash in a puddle with her red rain boots, reaching out toward the rainbow in the sky.",
+      "voiceover_uz": "Hozir yugurib borib, shu kamalakning ustiga chiqib ko‘raman! Kuting meni!",
+      "sfx": "Playful puddle splash footsteps and upbeat running melody"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in a yellow raincoat with two pigtails) stops in the middle of the garden, holding her yellow magnifying glass up toward the rainbow in the sky with a cute puzzled expression.",
+      "video_motion_prompt": "Asmo stops running, looks through her yellow magnifying glass at the distant rainbow, and tilts her head in cute confusion.",
+      "voiceover_uz": "Iya, qancha yugursam ham unga yetib bo‘lmayapti-ku! Kamalak o‘zi qayerdan paydo bo‘ladi?",
+      "sfx": "Cute cartoon stop sound and curious woodwind melody"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in a yellow raincoat) is standing in the sunlit garden holding a green garden hose nozzle, spraying a fine mist of water droplets into the bright golden sunbeams.",
+      "video_motion_prompt": "Asmo gently sprays a fine mist of sparkling water into the sunlight. As the sunbeams hit the mist, a tiny glowing rainbow forms right in front of her.",
+      "voiceover_uz": "Qarang! Quyosh nuri suv tomchilariga tushganda... kichkina kamalak hosil bo‘ldi!",
+      "sfx": "Gentle water mist spray sound followed by a magical discovery chime"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Educational macro close-up view through Asmo's yellow magnifying glass: a single crystal-clear floating raindrop in mid-air. A bright golden sunbeam enters one side of the raindrop and splits into seven glowing rainbow colors coming out the other side. 8k resolution.",
+      "video_motion_prompt": "A bright golden ray of sunlight passes through the floating crystal water droplet, magically refracting into seven shimmering rainbow color beams.",
+      "voiceover_uz": "Demak, quyosh nuri yomg‘ir tomchilaridan o‘tganda yettita chiroyli rangga bo‘linar ekan!",
+      "sfx": "Magical crystal prism shimmer sound effect"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in a yellow raincoat with two pigtails) is smiling brightly in the garden, counting on her fingers as a glowing miniature rainbow arc shimmers right above her hands.",
+      "video_motion_prompt": "Asmo counts happily on her fingers one by one while the seven bright colors of the rainbow glow vibrantly in the sky behind her.",
+      "voiceover_uz": "Qizil, zarg‘aldoq, sariq, yashil, havo rang, ko‘k va binafsha — jami yettita rang!",
+      "sfx": "Playful xylophone notes ascending one by one with each color"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in a yellow raincoat with two pigtails) facing the camera directly with a big warm smile, waving one hand while the bright rainbow arches across the blue sky behind her.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera with a big bright smile and winks playfully. Upbeat cheerful ending frame.",
+      "voiceover_uz": "Sizga kamalakning qaysi rangi ko‘proq yoqadi? Izohlarda yozing! Ko‘rishguncha!",
+      "sfx": "Upbeat musical chord and cute pop sound"
+    },
+    {
+      "scene_id": "scene_09",
+      "is_musical_outro": true,
+      "duration": 12,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old Uzbek girl in a shiny yellow raincoat and red rain boots, with two bouncy pigtails) dancing and singing joyfully in the sunny garden under a giant glowing rainbow. Colorful 3D musical notes and water sparkles float in the air around her, 8k resolution.",
+      "video_motion_prompt": "Asmo dances rhythmically side to side, clapping her hands and singing happily to the camera in her yellow raincoat and red boots while 3D musical notes float around. Seamless rhythmic loop.",
+      "voiceover_uz": "🎵 Yomg‘ir o‘tib quyosh kular, osmonda kamalak to‘lar! Yetti xil chiroyli rang, tabiatga berar ohang! 🎵",
+      "sfx": "Suno AI Children's Outro Song (outro_song.mp3)"
+    }
+  ]
+}

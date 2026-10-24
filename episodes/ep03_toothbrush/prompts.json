@@ -1,0 +1,131 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 3-qism: Tish cho‘tkasi — qahramon",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing on a cute wooden step stool in a bright, colorful bathroom, looking into a large mirror. She has a tiny smudge of chocolate on her cheek and tooth after eating a cupcake. She holds her yellow magnifying glass up to the mirror with a curious, wide-eyed expression.",
+      "video_motion_prompt": "Asmo opens her mouth wide saying Ahhh into the bathroom mirror and leans in closer with her yellow magnifying glass to inspect her teeth.",
+      "voiceover_uz": "Shokoladli keks juda mazali edi! Lekin... tishlarimda nima qolib ketdi ekan?",
+      "sfx": "Cute yummy chewing sound followed by a curious magnifying glass zoom whoosh"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Inside a child's colorful imagination: a giant shiny white cartoon tooth with three tiny, silly, fuzzy purple sugar-monsters dancing happily around a crumb of chocolate. Bright playful lighting, non-scary cute design, 8k resolution.",
+      "video_motion_prompt": "The tiny fuzzy purple sugar-monsters jump up and down playfully on the giant cartoon tooth, cheering and hugging the chocolate crumb. Funny cartoon camera bounce.",
+      "voiceover_uz": "Voy! Agar tishimni yuvmasam, shakarxo‘r mikrobchalar tishimda bayram qilar ekan-ku!",
+      "sfx": "Silly tiny cartoon monster giggles and playful mischief music"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing in the bright bathroom holding up a shiny blue toothbrush with a little red superhero cape attached to it in her imagination. She has a determined, heroic smile on her face. Sparkling light rays behind the toothbrush.",
+      "video_motion_prompt": "Asmo raises the blue toothbrush high in the air triumphantly like a superhero. Sparkles appear around the toothbrush bristles.",
+      "voiceover_uz": "Bunga yo‘l qo‘ymaymiz! Yordamga mening qahramonim — Tish cho‘tkasi keladi!",
+      "sfx": "Superhero brass fanfare ta-da sound and magical sparkles"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Close-up shot of a cute 5-year-old girl's hands carefully squeezing a pea-sized swirl of sparkly mint-blue kids toothpaste onto the bristles of a shiny blue toothbrush. Bright colorful bathroom background, high detail, 8k resolution.",
+      "video_motion_prompt": "A cute, glossy pea-sized drop of blue-and-white striped toothpaste squeezes neatly onto the toothbrush bristles and sparkles brightly.",
+      "voiceover_uz": "Avval cho‘tkamizga no‘xatdekkina shirin tish pastasidan qo‘yamiz. Ko‘p emas, shunchasi yetadi!",
+      "sfx": "Cute soft squeeze plop sound and magic chime"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt. Asmo is happily brushing her teeth in front of the bathroom mirror, with cute fluffy white toothpaste foam bubbles around her smile. She holds the blue toothbrush moving it in circular motions.",
+      "video_motion_prompt": "Asmo brushes her teeth energetically up and down and in little circles, smiling at the mirror as cute soap-like foam bubbles float up.",
+      "voiceover_uz": "Endi esa tepadan pastga va dumaloq qilib... Chuv-chuv-chuv! Hamma burchaklarni tozalaymiz!",
+      "sfx": "Rhythmic toothbrush scrubbing sound and bubbly foam pops"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Inside the cartoon imagination: giant blue toothbrush bristles and sparkling white minty foam sweep across a giant white cartoon tooth, washing away the tiny silly purple sugar-monsters. The tooth shines like a diamond, 8k resolution.",
+      "video_motion_prompt": "Swirling white minty foam and blue bristles gently sweep the surprised little purple monsters off the screen, leaving the giant cartoon tooth sparkling clean.",
+      "voiceover_uz": "Ana shunday! Ko‘pikchalar hamma mikrobchalarni quvib chiqardi! Xayr, mikrobchalar!",
+      "sfx": "Foamy water wave whoosh and funny cartoon sliding away sound"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. Close-up shot of Asmo looking into the bathroom mirror, giving a huge, proud, beaming smile showing her sparkling clean white teeth. A bright cartoon star-glint shines on her front tooth.",
+      "video_motion_prompt": "Asmo wipes her mouth with a small yellow towel, then grins widely at the camera. A bright animated sparkle flashes on her clean white teeth.",
+      "voiceover_uz": "Urra! Tishlarim oppoq va sog‘lom bo‘ldi! Endi ular xuddi yulduzchadek porlayapti!",
+      "sfx": "Bright tooth sparkle ding sound and cheerful child giggle"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt. Medium shot of Asmo in the bright bathroom facing the camera directly, holding her blue toothbrush in one hand and holding up two fingers with the other hand, smiling warmly.",
+      "video_motion_prompt": "Asmo holds up two fingers proudly, then waves enthusiastically at the camera with a big sparkling smile. Cheerful ending frame.",
+      "voiceover_uz": "Har kuni ertalab va kechqurun — ikki marta tish yuvishni unutmang! Sizning cho‘tkangiz qaysi rangda?",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    }
+  ],
+  "song": {
+    "title": "Yulduzdek Tishlar",
+    "file": "assets/tish_chotkasi.mp3",
+    "start": 3.6,
+    "volume": 0.7,
+    "scenes": [
+      {
+        "scene_id": "song_01",
+        "duration": 7.85,
+        "video_motion_prompt": "Asmo dances in the bathroom to a superhero fanfare, waving her caped blue toothbrush up and down through the air like a hero chasing away tiny purple microbes, singing happily. Static camera."
+      },
+      {
+        "scene_id": "song_02",
+        "duration": 3.75,
+        "video_motion_prompt": "Asmo brushes her teeth in front of the mirror, swaying to the beat, cute white foam bubbles floating up around her, singing. Static camera."
+      },
+      {
+        "scene_id": "song_03",
+        "duration": 3.7,
+        "video_motion_prompt": "Asmo turns to the camera with a huge proud smile, and a bright star-shaped sparkle twinkles on her clean white teeth. Gentle camera push-in."
+      },
+      {
+        "scene_id": "song_04",
+        "video_motion_prompt": "Asmo waves goodbye to the camera with her blue toothbrush, singing and smiling, as shiny soap bubbles and sparkles float around her. Slow gentle camera push-in."
+      }
+    ],
+    "lyrics": [
+      {
+        "start": 7.8,
+        "end": 9.62,
+        "text": "♪ Tepadan pastga — chuv-chuv-chuv! ♪"
+      },
+      {
+        "start": 9.65,
+        "end": 11.52,
+        "text": "♪ Mikroblarni quv-quv-quv! ♪"
+      },
+      {
+        "start": 11.55,
+        "end": 13.36,
+        "text": "♪ Ertalab va kechqurun, ♪"
+      },
+      {
+        "start": 13.38,
+        "end": 15.2,
+        "text": "♪ Tishlarimni yuv-yuv-yuv! ♪"
+      },
+      {
+        "start": 15.22,
+        "end": 17.8,
+        "text": "♪ Yulduzdek porlar tishim! ♪"
+      },
+      {
+        "start": 18.9,
+        "end": 21.4,
+        "text": "♪ Ko‘rishguncha, xayr do‘stlar! ♪"
+      }
+    ]
+  }
+}

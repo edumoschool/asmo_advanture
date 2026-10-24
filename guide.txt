@@ -1,0 +1,1 @@
+"generate_tts.py va assemble_video.py skriptlarini shunday yangilaginki, ular terminaldan epizod nomini argument sifatida qabul qilsin (masalan: python scripts/generate_tts.py ep02_plants va python scripts/assemble_video.py ep02_plants). Shuningdek, episodes/ep02_plants/prompts.json faylini yuqoridagi kod asosida yarat."

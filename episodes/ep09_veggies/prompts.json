@@ -1,0 +1,81 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 9-qism: Sabzavotlar superkuchi",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, wearing yellow overalls, is sitting at a bright kitchen table. In front of her is a colorful plate with fresh green broccoli, orange carrot sticks, and red cherry tomatoes. She is pouting cutely and pushing the plate away slightly.",
+      "video_motion_prompt": "Asmo looks at the plate of vegetables, crosses her arms with a cute pout, and shakes her head playfully.",
+      "voiceover_uz": "Uf, yana sabzavotmi? Men sabzi va brokkoli emas, shirin konfet yeyishni xohlayman!",
+      "sfx": "Cute cartoon pouty trombone sound and soft plate slide"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Close-up view through Asmo's yellow magnifying glass looking at the lunch plate: in her colorful imagination, a crunchy orange carrot, a green broccoli floret, and a red tomato are wearing tiny cute superhero capes and striking heroic poses with glowing auras. 8k resolution.",
+      "video_motion_prompt": "Inside the magnifying glass view, the cute caped cartoon carrot and broccoli flex their tiny arms heroically as colorful sparkles burst around them.",
+      "voiceover_uz": "To‘xtang-chi! Oyijonim har bir sabzavotning o‘z superkuchi bor degan edilar-a?",
+      "sfx": "Magnifying glass zoom whoosh and heroic mini brass fanfare"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) takes a crunchy bite of a bright orange carrot stick. Her big brown eyes sparkle with a golden star-glow as she looks across the garden at a tiny butterfly far away.",
+      "video_motion_prompt": "Asmo happily crunches on the orange carrot stick, and her eyes light up with a magical golden sparkle as she looks far into the distance.",
+      "voiceover_uz": "Qars-qurs! Qarang, sabzi yedim — u ko‘zlarimizni ravshan va o‘tkir qilar ekan!",
+      "sfx": "Crisp carrot crunch sound followed by a magical vision sparkle chime"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) holds a cute green broccoli floret on her fork that looks like a tiny tree. After eating it, she flexes both of her little arms with a proud, strong superhero grin and a soft green energy glow.",
+      "video_motion_prompt": "Asmo takes a bite of the broccoli, then flexes both arms proudly like a little superhero as a playful green sparkle aura glows around her.",
+      "voiceover_uz": "Bu kichkina daraxtcha — brokkoli esa suyak va mushaklarimizni temirdek kuchli qiladi!",
+      "sfx": "Cute power-up chime and playful cartoon muscle flex boing"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) holds up a shiny red cherry tomato at the kitchen table. Cute glowing red heart-shaped sparkles float around the tomato as she smiles happily.",
+      "video_motion_prompt": "Asmo pops the shiny red cherry tomato into her mouth and pats her chest happily as cute glowing heart sparkles float upward.",
+      "voiceover_uz": "Qizil pomidor va ko‘katlar esa yuragimizga quvvat berib, charchoqni haydaydi!",
+      "sfx": "Juicy pop sound and cheerful upbeat heartbeat rhythm on marimba"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old girl in yellow overalls and red sneakers, wearing an imaginary little red superhero cape) jumping high with pure joy in the sunny backyard garden, full of boundless energy.",
+      "video_motion_prompt": "Asmo leaps high into the air in the sunny garden with her imaginary red superhero cape fluttering behind her, landing with a big triumphant smile.",
+      "voiceover_uz": "Urra! Sabzavotlar menga haqiqiy superkuch berdi! Endi balandga sakray olaman!",
+      "sfx": "Superhero whoosh jump sound and joyful child cheering"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) sitting at the kitchen table proudly showing her completely empty, clean lunch plate with a big beaming smile and a thumbs-up.",
+      "video_motion_prompt": "Asmo holds up her clean empty plate proudly and gives an enthusiastic thumbs-up to the camera.",
+      "voiceover_uz": "Mana, likopchamdagi hamma foydali sabzavotlarni oxirigacha yeb tugatdim!",
+      "sfx": "Victory ding chime and happy applause sound"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in yellow overalls with two pigtails) facing the camera directly in the bright kitchen, holding a fresh orange carrot in one hand and waving cheerfully with the other.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera with a big bright smile, holding her crunchy carrot. Cheerful ending frame.",
+      "voiceover_uz": "Sizning eng yaxshi ko‘rgan sabzavotingiz qaysi? Sabzimi yoki bodring? Izohlarda yozing!",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    },
+    {
+      "scene_id": "scene_09",
+      "is_musical_outro": true,
+      "duration": 12,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old Uzbek girl in yellow overalls with two bouncy pigtails and a cute red superhero cape) dancing and singing happily in the bright kitchen while cute animated carrots, broccoli, and 3D musical notes bounce around her, 8k resolution.",
+      "video_motion_prompt": "Asmo dances energetically in her little superhero cape, flexing her arms rhythmically and singing happily to the camera as musical notes float around. Seamless loop.",
+      "voiceover_uz": "🎵 Sabzi berar ko‘zga nur, brokkoli — kuch va g‘urur! Sabzavotni ko‘p yesak, bo‘lamiz sog‘lom, jasur! 🎵",
+      "sfx": "Suno AI Children's Outro Song (outro_song.mp3)"
+    }
+  ]
+}

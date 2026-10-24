@@ -1,0 +1,81 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 10-qism: Nega uxlashimiz kerak?",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing cozy pastel-blue two-piece pajamas with cute yellow star patterns, and fluffy bunny slippers. Warm cozy bedroom lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair in two pigtails, wearing pastel-blue star-patterned pajamas, is sitting on her bedroom rug at night playing with a brown teddy bear and a wind-up toy robot. A crescent moon shines outside the window.",
+      "video_motion_prompt": "Asmo bounces her teddy bear playfully on the rug, shaking her head stubbornly with a cute playful smile.",
+      "voiceover_uz": "Tashqarida kech kirdi, lekin men hali uxlamayman! Men hech ham charchamadim!",
+      "sfx": "Cozy nighttime crickets and playful toy squeak"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Close-up shot of Asmo (5-year-old girl in pastel-blue star pajamas with two pigtails) letting out a huge, cute sleepy yawn, covering her mouth with one little hand while her eyelids droop sleepily.",
+      "video_motion_prompt": "Asmo suddenly lets out a big, adorable sleepy yawn, rubbing one eye with her hand as she blinks slowly.",
+      "voiceover_uz": "A-a-ax! Iya... Nega ko‘zlarim o‘zidan-o‘zi yumilib ketyapti? Nega uxlashimiz kerak o‘zi?",
+      "sfx": "Cute sleepy child yawn sound and soft descending flute notes"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. High angle shot on the bedroom rug: Asmo (in pastel-blue star pajamas) watches her cute little toy robot slow down and stop moving, with a glowing red low-battery icon floating above its head.",
+      "video_motion_prompt": "The little wind-up toy robot walks two slow steps, whirs down, and stops completely as Asmo looks at it with curiosity.",
+      "voiceover_uz": "Qarang, o‘yinchoq robotchamning quvvati tugab, to‘xtab qoldi! Unga dam kerak!",
+      "sfx": "Toy robot winding down whirring sound and low battery beep"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in pastel-blue star pajamas) is tucked cozily into her soft bed, hugging her brown teddy bear with her eyes gently closed. Warm golden bedside lamp light.",
+      "video_motion_prompt": "Asmo snuggles comfortably under her soft blanket with her teddy bear, closes her eyes peacefully, and falls asleep with a sweet smile.",
+      "voiceover_uz": "Bizning tanamiz ham xuddi shunday ekan! Kun bo‘yi yugurib, o‘ynaganimizdan keyin quvvat yig‘ishi kerak!",
+      "sfx": "Soft cozy blanket rustle and gentle lullaby harp glissando"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Magical dream-like visualization above sleeping Asmo: a cute glowing green battery icon filling up to 100% and golden sparkles gently swirling around her sleeping form, symbolizing growth and energy recharge. 8k resolution.",
+      "video_motion_prompt": "Magical golden sparkles swirl gently around sleeping Asmo as a cute glowing green energy bar charges up smoothly to full power.",
+      "voiceover_uz": "Bilasizmi, biz shirin uxlayotganimizda suyaklarimiz cho‘zilib, bo‘yimiz aynan tunda o‘sar ekan!",
+      "sfx": "Magical warm recharging hum and ascending crystal chimes"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Cute Pixar Inside-Out style dream cloud above sleeping Asmo: colorful glowing memory orbs of books, flowers, and numbers neatly floating onto tidy glowing shelves inside a magical dream library.",
+      "video_motion_prompt": "Inside the soft dream cloud, glowing colorful memory bubbles float neatly onto magical shelves, sparkling brightly.",
+      "voiceover_uz": "Miyamiz esa dam olib, kun bo‘yi o‘rgangan barcha yangi bilimlarimizni xotiramizga joylab qo‘yar ekan!",
+      "sfx": "Dreamy celesta melody and soft magical bubble pops"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Bright sunny morning in the bedroom! Asmo (5-year-old girl in pastel-blue star pajamas with two pigtails) stands next to a cute giraffe height-chart on the wall, stretching her arms up happily, full of 100% morning energy.",
+      "video_motion_prompt": "Morning sunlight streams in as Asmo stretches her arms high with a big refreshed smile and checks her height on the giraffe wall chart.",
+      "voiceover_uz": "Ura, tong otdi! Vaqtida uxlaganim uchun kuchga to‘lib uyg‘ondim va yana ozgina o‘sdim!",
+      "sfx": "Cheerful morning birds chirping and energetic orchestral flourish"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in pastel-blue star pajamas) holding her cute brown teddy bear in one arm and waving gently at the camera with a warm, sweet smile.",
+      "video_motion_prompt": "Asmo waves gently at the camera and makes her teddy bear's paw wave too, smiling warmly.",
+      "voiceover_uz": "Vaqtida uxlasak — tez katta bo‘lamiz! Sizga xayrli tun, shirin tushlar ko‘ring, do‘stlar!",
+      "sfx": "Gentle music box outro chord and soft sparkle sound"
+    },
+    {
+      "scene_id": "scene_09",
+      "is_musical_outro": true,
+      "duration": 12,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old Uzbek girl in cozy pastel-blue star pajamas and bunny slippers, with two pigtails) swaying and singing sweetly in her starry bedroom while holding her teddy bear. Glowing golden stars and 3D musical notes float gently in the air, 8k resolution.",
+      "video_motion_prompt": "Asmo sways gently side to side in a cute lullaby dance, hugging her teddy bear and singing happily to the camera while golden stars and musical notes float around. Seamless loop.",
+      "voiceover_uz": "🎵 Tun kelganda dam olib, shirin uyquga to‘lib! Tunda o‘sar bo‘yimiz, kuchga to‘lar o‘yimiz! 🎵",
+      "sfx": "Suno AI Children's Outro Song (outro_song.mp3)"
+    }
+  ]
+}

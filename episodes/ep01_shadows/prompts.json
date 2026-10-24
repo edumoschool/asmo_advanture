@@ -1,0 +1,105 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 1-qism: Soyalar siri",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is happily walking in a sunny green backyard garden with colorful flowers, holding a small yellow magnifying glass in her right hand. Bright morning sunlight, soft shadows on the grass.",
+      "video_motion_prompt": "Asmo skips forward cheerfully, swinging her magnifying glass slightly. Camera tracks backwards smoothly in front of her. Butterflies fly in the background.",
+      "voiceover_uz": "Salom do‘stlar! Bugun havo juda ajoyib-a? Keling, yangi narsalar qidiramiz!",
+      "sfx": "Cheerful kids background music starts, birds chirping, light footsteps on grass"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. High angle shot looking down at Asmo standing on a stone garden path. A sharp, clear dark shadow of Asmo is cast on the ground right next to her feet. Asmo is looking down at her shadow with a shocked, wide-eyed cute expression.",
+      "video_motion_prompt": "Asmo stops suddenly, gasps, and leans down closer to inspect the dark shadow on the ground with her magnifying glass. The shadow mimics her exact movement.",
+      "voiceover_uz": "Voy! Bu kim bo‘ldi? Nega bu qora shakl mening orqamdan qolmayapti?",
+      "sfx": "Cartoon boing stop sound, curious gasp"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Full body shot of Asmo standing on a sunny patio, raising both hands up playfully in a funny monster pose. Her dark shadow on the ground behind her is clearly visible doing the exact same pose.",
+      "video_motion_prompt": "Asmo jumps to the left and waves her arms up and down. The shadow on the ground moves in perfect synchronization with her. Dynamic playful camera angle.",
+      "voiceover_uz": "Men sakrasam — u ham sakrayapti! Qo‘limni ko‘tarsam — u ham ko‘taryapti!",
+      "sfx": "Cartoon hop-hop jumping sounds, cute giggling"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing under the cool, dark shade of a large tree in the garden. No individual shadow of Asmo is visible on the ground. She is looking around her feet looking confused and shrugging her shoulders.",
+      "video_motion_prompt": "Asmo looks left and right at the ground around her shoes, lifts one foot to check underneath, and scratches her head in cute confusion.",
+      "voiceover_uz": "Iya! Daraxtning tagiga yashiringandim... u yo‘qolib qoldi! Qayerga ketdi?",
+      "sfx": "Confused cartoon sound effect, gentle wind rustling leaves"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Close-up shot of Asmo looking up at the bright sunbeams filtering through green tree leaves. A bright smile on her face, her eyes sparkling with realization. Warm golden lighting.",
+      "video_motion_prompt": "Camera slowly zooms in on Asmo's face as she smiles brightly, raises one finger in a Eureka gesture, and steps back out into the bright sunlight.",
+      "voiceover_uz": "A-ha! Topdim! Hamma gap quyosh nurida ekan-ku!",
+      "sfx": "Magical ding bell sound effect for idea realization"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Side view of Asmo standing in bright sunlight, holding her hands out in front of her. Sun rays are visibly shining from behind her, casting a clear shadow of her body and hands onto the light-colored garden wall.",
+      "video_motion_prompt": "Sunbeams shine warmly as Asmo moves her hands, watching the dark shadow form clearly on the wall in front of her. Gentle camera pan.",
+      "voiceover_uz": "Quyosh nuri menga tushib, orqaga o‘tolmagani uchun soyam paydo bo‘lar ekan!",
+      "sfx": "Warm, inspiring acoustic melody"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Over-the-shoulder shot of Asmo making a bunny rabbit shape with her fingers in the sunlight. On the bright garden wall in front of her, there is a cute, clear shadow of a bunny rabbit with long ears.",
+      "video_motion_prompt": "Asmo wiggles her fingers, making the shadow bunny's ears move up and down on the wall. She giggles happily.",
+      "voiceover_uz": "Qarang, soyam bilan quyoncha yasadim! Soya — quyoshli kundagi do‘stimiz ekan!",
+      "sfx": "Happy giggle, cute cartoon wiggle sound"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Medium shot of Asmo facing the camera directly, smiling warmly and waving one hand. Behind her on the sunlit garden wall, her shadow is also clearly visible waving its hand.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera, winks one eye, and her shadow waves in sync. Bright, cheerful ending frame.",
+      "voiceover_uz": "Siz-chi, soyangiz bilan qanday shakllar yasay olasiz? Izohlarda yozing! Xayr!",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    }
+  ],
+  "song": {
+    "title": "Quvnoq Soyam",
+    "file": "assets/soyam_music.mp3",
+    "start": 5.5,
+    "volume": 0.6,
+    "scenes": [
+      {
+        "scene_id": "song_01",
+        "duration": 7.2,
+        "video_motion_prompt": "Asmo sways and dances to a bouncy xylophone beat, giggles, then starts singing happily with an open mouth. Her shadow on the sunlit wall dances in perfect sync. Static camera, full body."
+      },
+      {
+        "scene_id": "song_02",
+        "duration": 2.85,
+        "video_motion_prompt": "Asmo hops up and down on the beat, singing joyfully, and her shadow on the wall hops in perfect sync. Static camera, full body."
+      },
+      {
+        "scene_id": "song_03",
+        "duration": 3.85,
+        "video_motion_prompt": "Asmo claps her hands above her head and spins around on one foot, laughing and singing, pigtails flying. Her shadow on the wall claps and spins with her. Static camera, full body."
+      },
+      {
+        "scene_id": "song_04",
+        "video_motion_prompt": "Asmo waves goodbye to the camera while singing, then claps along and finishes with a big happy pose, one arm raised high, as colorful confetti falls. Her shadow on the wall waves and poses too. Slow gentle camera push-in."
+      }
+    ],
+    "lyrics": [
+      {"start": 9.55, "end": 12.7, "text": "♪ Quyosh chiqsa yugurib, orqamdan qolmas soyam! ♪"},
+      {"start": 12.75, "end": 15.55, "text": "♪ Men sakrasam — u sakrar, quvnoq do‘stimdir soyam! ♪"},
+      {"start": 15.6, "end": 19.5, "text": "♪ Soya, soya — quvnoq soyam! ♪"},
+      {"start": 19.8, "end": 23.2, "text": "♪ Ko‘rishguncha, xayr do‘stlar! ♪"}
+    ]
+  }
+}

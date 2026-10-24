@@ -1,0 +1,72 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 4-qism: Asalarilar nega vizzillaydi?",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing in a lush, sunlit flower garden filled with blooming daisies and lavender. She is tilting her head and holding one hand near her ear, listening intently with a curious, surprised expression. A cute, chubby, friendly Pixar-style bumblebee is flying in a blurred golden trail nearby.",
+      "video_motion_prompt": "Asmo stops walking, tilts her head curiously listening to a sound, and looks around as a cute little bumblebee zips past her in a looping flight path.",
+      "voiceover_uz": "Vizz-vizz-vizz! Eshityapsizmi? Bog‘da kimdir qo‘shiq aytyapti shekilli!",
+      "sfx": "Playful cartoon bee buzzing loop and garden birds chirping"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. Close-up shot of Asmo looking through her yellow magnifying glass at a big white daisy flower. Sitting on the yellow center of the daisy is an adorable, fluffy, round 3D cartoon honeybee with big friendly eyes. Warm macro garden lighting, 8k resolution.",
+      "video_motion_prompt": "Asmo leans in gently with her magnifying glass. The cute fluffy honeybee wiggles its little antennae and buzzes softly on the daisy flower.",
+      "voiceover_uz": "Voy, bu mittigina asalari-ku! Salom, paxmoqvoy! Nega tinmay vizzillayapsan?",
+      "sfx": "Magnifying glass zoom whoosh and a cute friendly bee buzz"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Macro close-up view through a yellow magnifying glass: a cute, fluffy cartoon honeybee hovering in mid-air. Its tiny translucent wings are flapping super fast with magical motion-blur lines and tiny soundwave rings around them. Bright sunny garden background, 8k resolution.",
+      "video_motion_prompt": "The cute cartoon honeybee hovers in mid-air, flapping its tiny translucent wings rapidly, creating soft glowing ripple rings in the air while Asmo watches in awe in the background.",
+      "voiceover_uz": "O-ho! U og‘zi bilan emas, qanotlarini ju-u-da tez qoqqani uchun vizzillar ekan!",
+      "sfx": "Fast fluttering wing hum sound and magical realization ding"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Full body shot of Asmo in the sunny flower garden, flapping her arms up and down rapidly like tiny bee wings while jumping playfully. The little honeybee hovers next to her head as if cheering her on.",
+      "video_motion_prompt": "Asmo flaps her arms super fast like a little bee, puffs her cheeks saying Bzzzz, and giggles happily while bouncing on the grass.",
+      "voiceover_uz": "Qani, men ham sinab ko‘ray-chi: Vizzz-vizzz! Yo‘q, qo‘llarim charchab qoldi!",
+      "sfx": "Funny cartoon arm flapping sound and cheerful child giggling"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. Over-the-shoulder shot of Asmo watching the cute fluffy honeybee on a vibrant pink flower. Glowing golden pollen dust sparkles on the bee's fuzzy legs like little yellow baskets. Magical warm lighting, 8k resolution.",
+      "video_motion_prompt": "The cute bee collects glowing golden pollen on the pink flower, kicking its little fuzzy legs happily as golden sparkles float up. Asmo watches closely with a big smile.",
+      "voiceover_uz": "Qaranglar, u gullardan oltin chang va shirin sharbat yig‘ib, gullarning o‘sishiga ham yordam beryapti!",
+      "sfx": "Magical golden sparkle chimes and soft buzzing"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing in the garden looking up and waving at the little honeybee as it flies along a glowing golden dotted trail toward a cozy, cute cartoon beehive hanging on an apple tree branch in the background.",
+      "video_motion_prompt": "The honeybee flies happily toward the cozy beehive in the tree while Asmo waves goodbye from the garden path with a warm smile.",
+      "voiceover_uz": "Endi u yig‘gan nektarlarini uyiga olib borib, biz uchun shirin asal tayyorlaydi!",
+      "sfx": "Cute zooming bee flight sound and warm acoustic melody"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt. Asmo is standing by a sunny garden table with a cute glass jar of glowing golden honey and a wooden honey dipper dripping sweet honey. Asmo is smiling with a delighted, happy expression.",
+      "video_motion_prompt": "Golden honey drips slowly from the wooden honey dipper into the glass jar, shining in the sunlight. Asmo claps her hands and smiles brightly.",
+      "voiceover_uz": "Demak, asalarilar — tabiatning eng mehnatkash va foydali do‘stlari ekan! Ularga ozor bermasligimiz kerak!",
+      "sfx": "Delighted mmm sound and warm inspiring music chord"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt. Medium shot of Asmo facing the camera directly, holding the cute jar of golden honey in one arm and waving cheerfully with the other hand. The cute cartoon honeybee hovers right next to her shoulder.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera with a big bright smile while the little honeybee does a happy mid-air flip beside her. Upbeat ending frame.",
+      "voiceover_uz": "Siz ham issiq choy bilan shirin asal ichishni yaxshi ko‘rasizmi? Izohlarda yozing! Ko‘rishguncha!",
+      "sfx": "Upbeat musical outro chord, cute bee buzz and pop sound"
+    }
+  ]
+}

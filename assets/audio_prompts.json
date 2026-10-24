@@ -1,0 +1,584 @@
+{
+  "global_assets": {
+    "main_theme_loop": {
+      "filename": "main_bg_music.mp3",
+      "duration_seconds": 20.0,
+      "prompt_influence": 0.7,
+      "prompt": "Cheerful, lighthearted 3D animated movie background music loop for children, gentle ukulele strumming, playful xylophone melody, soft pizzicato strings, warm and curious mood, instrumental, no vocals, seamless loop"
+    },
+    "outro_jingle": {
+      "filename": "outro_jingle.mp3",
+      "duration_seconds": 4.0,
+      "prompt_influence": 0.8,
+      "prompt": "Upbeat cute cartoon musical outro chord with a cheerful xylophone flourish and a soft playful pop sound at the end"
+    },
+    "intro_jingle": {
+      "filename": "intro_jingle.mp3",
+      "duration_seconds": 3.0,
+      "prompt_influence": 0.8,
+      "prompt": "Short bright kids cartoon series intro sting, magical sparkle whoosh into a cheerful xylophone and ukulele flourish, ending on a happy bell ding, instrumental, no vocals"
+    }
+  },
+  "episodes": {
+    "ep01_shadows": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Playful, sunny morning garden background music for a kids cartoon, bouncy pizzicato strings, bright marimba, light flute melody, curious and magical discovery vibe, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.6,
+        "prompt": "Soft sunny backyard garden ambience, gentle morning birds chirping in the distance, light warm breeze through leaves"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.0,
+          "prompt": "Light happy child footsteps skipping on soft garden grass with gentle birds chirping"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 3.0,
+          "prompt": "Cute cartoon spring boing stop sound followed by a quick curious swoosh"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.0,
+          "prompt": "Playful cartoon hop and bounce sound effects, two light bouncy jumps on patio"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 4.0,
+          "prompt": "Quirky confused cartoon woodwind sound effect followed by soft wind rustling tree leaves"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 3.0,
+          "prompt": "Magical bright crystal bell ding sound effect for a cartoon idea realization"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 5.0,
+          "prompt": "Warm, gentle acoustic guitar and harp glissando, magical sunlight shimmering sound"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.0,
+          "prompt": "Cute cartoon ear wiggle sound effect, playful xylophone notes"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Cheerful cartoon ukulele chord ending with a cute bubble pop sound"
+        }
+      ]
+    },
+    "ep02_plants": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Warm, gentle acoustic kids animation background music, fingerpicked acoustic guitar, soft kalimba and glockenspiel, nature and caring mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.6,
+        "prompt": "Peaceful sunny wooden veranda ambience, gentle summer breeze, distant cheerful garden birds"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.0,
+          "prompt": "Cute drinking straw slurp sound followed by a gentle sad cartoon trombone womp-womp"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 3.0,
+          "prompt": "Bright playful triangle ding sound effect and a quick glass clink"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 3.5,
+          "prompt": "Gentle cartoon pause sound effect followed by a warm, comforting harp chord"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 5.0,
+          "prompt": "Clear water gently pouring from a small watering can onto soil, soft trickling water droplets"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 5.0,
+          "prompt": "Magical cartoon water bubbles rising upward with a soft shimmering whoosh sound"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Magical fairy sparkle chime as a flower blooms, uplifting orchestral swell"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.0,
+          "prompt": "Refreshing water gulp sound followed by a happy bright marimba flourish"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat cartoon musical outro chord with a cute water drop plop sound"
+        }
+      ]
+    },
+    "ep03_toothbrush": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Upbeat, energetic and bouncy cartoon background music for kids morning routine, playful xylophone, light snare brush rhythm, cheerful brass accents, superhero fun vibe, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Clean bright indoor bathroom room tone with very soft distant water bubbles"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 3.5,
+          "prompt": "Cute cartoon magnifying glass zoom whoosh sound effect"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 5.0,
+          "prompt": "Silly tiny cartoon creatures bouncing and playful mischievous pizzicato strings"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.0,
+          "prompt": "Short cute superhero brass fanfare ta-da sound with magical sparkling chimes"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 3.5,
+          "prompt": "Soft cute toothpaste squeeze plop sound followed by a bright twinkle bell"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 5.0,
+          "prompt": "Rhythmic cartoon toothbrush scrubbing sound with bubbly foam popping softly"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Swirling foamy water wave whoosh sound and funny cartoon sliding away whistle"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 3.5,
+          "prompt": "Classic cartoon bright tooth sparkle ding chime sound effect"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat cheerful kids musical outro chord with a bubbly pop sound"
+        }
+      ]
+    },
+    "ep04_bees": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Whimsical, bouncy garden adventure background music for children, light staccato strings, playful flute and celesta, cheerful nature exploration mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.6,
+        "prompt": "Sunny flower meadow ambience, gentle summer breeze, soft birds singing in the background"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.5,
+          "prompt": "Cute friendly cartoon bumblebee buzzing around in a playful loop"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 3.5,
+          "prompt": "Soft camera zoom swoosh and a gentle friendly little bee buzz"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.5,
+          "prompt": "Fast fluttering tiny insect wings humming softly with a magical realization bell ding"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 4.0,
+          "prompt": "Funny cartoon flapping sound effect and bouncy footsteps on grass"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 4.5,
+          "prompt": "Magical golden fairy dust twinkle chimes with a soft happy bee hum"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Cute cartoon bee zooming away into the distance with a warm flute melody"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.0,
+          "prompt": "Thick golden honey dripping slowly and a warm inspiring harp chord"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat cartoon musical outro chord with a cute quick bee buzz and pop"
+        }
+      ]
+    },
+    "ep05_sharing": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Heartwarming and playful friendship background music for a kids cartoon, cheerful acoustic guitar, upbeat piano and glockenspiel, joyful playroom vibe, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Cozy indoor kids playroom room tone, very soft warm atmosphere"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.0,
+          "prompt": "Funny cartoon rubbery tug-of-war squeak sound effect"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 4.5,
+          "prompt": "Slow wooden toy train wheels rolling on a rug and a sad soft cello note"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 3.5,
+          "prompt": "Bright magical idea chime ding and an excited xylophone run upward"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 4.0,
+          "prompt": "Warm heartwarming harp glissando and soft wooden toy click"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 5.0,
+          "prompt": "Playful wooden building blocks clacking and clicking together rhythmically"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 5.0,
+          "prompt": "Cute cartoon wooden train chugga-chugga sound and a cheerful whistle choo-choo"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 3.5,
+          "prompt": "Crisp playful high-five hand slap followed by magical star sparkles chime"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat joyful cartoon musical outro chord with a cute pop sound"
+        }
+      ]
+    },
+    "ep06_rainbow": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Magical, uplifting and cheerful Pixar style kids background music, bright glockenspiel, warm acoustic guitar, playful flute and pizzicato strings, post-rain sunny rainbow discovery mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.6,
+        "prompt": "Fresh sunny garden ambience right after rain, very soft water drops dripping from leaves, happy birds chirping in the distance"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.0,
+          "prompt": "Single crystal water drop plink sound followed by cheerful morning birds chirping"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 4.5,
+          "prompt": "Magical shimmering harp glissando and warm orchestral wonder chord"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.5,
+          "prompt": "Cute child rain boots running and splashing lightly in small water puddles"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 3.5,
+          "prompt": "Cute cartoon stop sound and quirky inquisitive woodwind notes"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 4.5,
+          "prompt": "Gentle garden hose water mist spraying sound followed by a magical bell chime"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 5.0,
+          "prompt": "Magical crystal prism light refraction sound, shimmering glass chimes"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.5,
+          "prompt": "Playful bright xylophone notes ascending up a seven-note scale"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat joyful cartoon musical outro chord with a cute sparkle pop"
+        }
+      ]
+    },
+    "ep07_washhands": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Bouncy, playful and clean cartoon background music for kids hygiene routine, upbeat marimba, light ukulele, bubbly percussion, cheerful and fun tempo, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Cozy bright indoor home and bathroom ambience, very soft clean room tone"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 3.5,
+          "prompt": "Cute rubber ball bounce thump sound and playful footsteps"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 3.5,
+          "prompt": "Gentle cartoon pause sound and curious plucked violin notes"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.5,
+          "prompt": "Cartoon magnifying glass zoom swoosh followed by silly tiny creature giggles"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 3.5,
+          "prompt": "Liquid soap dispenser pump squirt sound and a bright magical twinkle"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 5.0,
+          "prompt": "Rhythmic soapy hands scrubbing together with lots of soft foam bubbles popping"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Clear water rinsing hands at a sink and a funny cartoon swirl down the drain"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.0,
+          "prompt": "Bright cartoon sparkle ding followed by a crisp juicy apple bite crunch"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat cartoon musical outro chord with a cute bubble pop sound"
+        }
+      ]
+    },
+    "ep08_stars": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Magical, curious and whimsical Pixar style kids background music, twinkling celesta, soft pizzicato strings, gentle flute and warm acoustic guitar, space and sky discovery mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Calm open window breeze ambience, very soft distant nature atmosphere"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 4.5,
+          "prompt": "Magical twinkling star chimes and gentle evening crickets chirping softly"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 4.0,
+          "prompt": "Soft morning birds chirping followed by a cute confused cartoon woodwind note"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 3.5,
+          "prompt": "Playful tiptoe pizzicato notes and a soft magnifying glass zoom whoosh"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 3.5,
+          "prompt": "Crisp plastic flashlight button click sound and curious marimba notes"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 4.5,
+          "prompt": "Curtain sliding shut swoosh followed by a bright magical realization bell ding"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 5.0,
+          "prompt": "Warm inspiring strings chord with gentle shimmering starlight chimes"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.0,
+          "prompt": "Single bright magical star twinkle sound and happy child handclaps"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat magical cartoon musical outro chord with a cute sparkle pop"
+        }
+      ]
+    },
+    "ep09_veggies": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Upbeat, energetic and bouncy superhero kids cartoon background music, playful xylophone, cheerful brass stabs, acoustic guitar and light snare rhythm, healthy and fun mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Warm bright family kitchen room tone, very subtle cheerful home atmosphere"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 3.5,
+          "prompt": "Funny cute cartoon pouty trombone slide sound and a gentle plate slide"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 4.5,
+          "prompt": "Cartoon zoom swoosh followed by a cute mini superhero brass fanfare"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.0,
+          "prompt": "Crisp crunchy carrot bite sound followed by a magical vision sparkle chime"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 4.0,
+          "prompt": "Video game style cute power-up chime and a playful cartoon muscle flex boing"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 4.0,
+          "prompt": "Cute juicy pop sound and an upbeat cheerful marimba rhythm"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Superhero cape whoosh jump sound and joyful triumphant brass notes"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 3.5,
+          "prompt": "Bright victory bell ding and cheerful xylophone flourish"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Upbeat cartoon musical outro chord with a crisp carrot crunch and pop"
+        }
+      ]
+    },
+    "ep10_sleep": {
+      "bg_music": {
+        "filename": "bg_music.mp3",
+        "duration_seconds": 20.0,
+        "prompt_influence": 0.7,
+        "prompt": "Gentle, soothing yet cheerful Pixar style bedtime cartoon background music, soft kalimba, warm music box celesta, fingerpicked acoustic guitar, cozy and magical dream mood, instrumental loop"
+      },
+      "ambience": {
+        "filename": "ambience.mp3",
+        "duration_seconds": 15.0,
+        "prompt_influence": 0.5,
+        "prompt": "Peaceful cozy bedroom at night ambience, very soft distant night crickets"
+      },
+      "scene_sfx": [
+        {
+          "scene_id": "scene_01",
+          "duration_seconds": 3.5,
+          "prompt": "Cute soft plush teddy bear bounce sound and playful xylophone notes"
+        },
+        {
+          "scene_id": "scene_02",
+          "duration_seconds": 4.0,
+          "prompt": "Soft sleepy cartoon flute slide downward and a gentle chime"
+        },
+        {
+          "scene_id": "scene_03",
+          "duration_seconds": 4.5,
+          "prompt": "Cute wind-up toy robot slowing down whirring sound and a soft low-battery beep"
+        },
+        {
+          "scene_id": "scene_04",
+          "duration_seconds": 4.5,
+          "prompt": "Cozy soft blanket rustle followed by a peaceful harp glissando"
+        },
+        {
+          "scene_id": "scene_05",
+          "duration_seconds": 5.0,
+          "prompt": "Magical warm energy recharging hum with ascending crystal chimes"
+        },
+        {
+          "scene_id": "scene_06",
+          "duration_seconds": 4.5,
+          "prompt": "Dreamy music box melody with soft magical floating bubble pops"
+        },
+        {
+          "scene_id": "scene_07",
+          "duration_seconds": 4.5,
+          "prompt": "Cheerful morning birds chirping and an uplifting sunny orchestral swell"
+        },
+        {
+          "scene_id": "scene_08",
+          "duration_seconds": 4.0,
+          "prompt": "Sweet gentle music box outro chord ending with a soft star twinkle"
+        }
+      ]
+    }
+  }
+}

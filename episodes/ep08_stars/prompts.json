@@ -1,0 +1,81 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 8-qism: Yulduzlar kunduzi qayerga ketadi?",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. High detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands, is looking out her cozy bedroom window at night. In the dark blue night sky, dozens of bright golden cartoon stars are twinkling magically. Soft moonlight illuminates her smiling face, 8k resolution.",
+      "video_motion_prompt": "Asmo looks out the window with sparkling eyes and waves her hand gently at the twinkling golden stars in the night sky.",
+      "voiceover_uz": "Tunda osmonda yulduzchalar qanday chiroyli porlaydi-ya! Salom, yulduzchalar!",
+      "sfx": "Magical twinkling star chimes and gentle night crickets"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Bright sunny morning. Asmo (5-year-old girl in yellow overalls over a white striped t-shirt, with two pigtails) is looking out the same open window at a clear, bright blue daytime sky with a shining sun and zero visible stars. She has a confused, curious expression.",
+      "video_motion_prompt": "Asmo leans out the sunny window, looks left and right across the bright blue sky, and scratches her head in cute confusion.",
+      "voiceover_uz": "Iya! Ertalab quyosh chiqqandi, barcha yulduzlar yo‘qolib qoldi! Ular qayerga ketdi?",
+      "sfx": "Morning rooster crow in distance followed by a curious cartoon huh sound"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) is standing in the sunny garden holding her yellow magnifying glass up toward a fluffy white cloud in the blue sky, squinting one eye playfully.",
+      "video_motion_prompt": "Asmo inspects the fluffy white clouds in the sky through her yellow magnifying glass, tiptoeing to see higher.",
+      "voiceover_uz": "Balki yulduzchalar kunduzi bulutlar orqasiga o‘tib, uxlayotgandir?",
+      "sfx": "Playful tiptoe pizzicato strings and magnifying glass swoosh"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo (5-year-old girl in yellow overalls with two pigtails) is inside her brightly sunlit bedroom, holding a small red toy flashlight pointed at the wall. Because the room is very bright with sunlight, the flashlight beam is barely visible on the wall.",
+      "video_motion_prompt": "Asmo clicks on the red flashlight and points it at the sunlit wall, looking closely with a puzzled expression because the light beam is too faint to see.",
+      "voiceover_uz": "Keling, sinab ko‘ramiz! Yorug‘ xonada fonarchani yoqsam, uning nuri deyarli ko‘rinmayapti!",
+      "sfx": "Flashlight click sound and soft inquisitive marimba notes"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Inside Asmo's bedroom with the window curtains closed, making the room cozy and dim. Asmo (5-year-old girl in yellow overalls) shines her red flashlight onto the wall, where it projects a bright, glowing golden star shape. Her face lights up with realization.",
+      "video_motion_prompt": "As the room dims, the star-shaped light from Asmo's flashlight shines brightly on the wall. Asmo gasps happily and smiles with an Aha expression.",
+      "voiceover_uz": "Pardani yopib xonani qorong‘i qilgandim — fonarcha nuri yulduzdek charaqlab ketdi!",
+      "sfx": "Curtain swoosh sound followed by a magical Eureka bell ding"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Educational cartoon split-view of the daytime sky: the bright golden Sun is shining strongly in the foreground, while faint, cute, translucent cartoon stars are peacefully hanging out in the blue sky behind the bright sunbeams, waving hello. 8k resolution.",
+      "video_motion_prompt": "Bright golden sunbeams shine across the blue sky while cute faint translucent stars peek out playfully from behind the bright light.",
+      "voiceover_uz": "Tushundim! Yulduzlar kunduzi ham osmonda turar ekan, faqat Quyosh juda yorug‘ bo‘lgani uchun ko‘rinmas ekan!",
+      "sfx": "Warm inspiring orchestral strings and soft magical shimmer"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Evening sunset transitioning to twilight. Asmo (5-year-old girl in yellow overalls with two pigtails) is in the garden looking up happily as the first bright evening star twinkles in the purple-orange sky.",
+      "video_motion_prompt": "Asmo points up excitedly at the first glowing star appearing in the purple evening sky and claps her hands joyfully.",
+      "voiceover_uz": "Quyosh botishi bilan yulduzchalar yana ko‘rina boshlaydi! Ana, birinchisi chiqdi!",
+      "sfx": "Bright evening star twinkle chime and happy child clapping"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Medium shot of Asmo (5-year-old Uzbek girl in yellow overalls with two pigtails) facing the camera directly at twilight, holding her red flashlight in one hand and waving warmly with the other, with twinkling stars behind her.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera with a big bright smile as golden stars twinkle in the sky behind her.",
+      "voiceover_uz": "Siz kechqurun osmonda nechta yulduz sanay olasiz? Izohlarda yozing! Xayr!",
+      "sfx": "Upbeat musical outro chord and cute star pop sound"
+    },
+    {
+      "scene_id": "scene_09",
+      "is_musical_outro": true,
+      "duration": 12,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Full body shot of Asmo (5-year-old Uzbek girl in yellow overalls with two bouncy pigtails) dancing and singing joyfully in her cozy room lit by a magical star-projector casting glowing golden stars and colorful 3D musical notes all around her, 8k resolution.",
+      "video_motion_prompt": "Asmo dances rhythmically side to side, reaching up toward floating golden stars and singing happily to the camera. Seamless joyful loop.",
+      "voiceover_uz": "🎵 Yulduzchalar ketmaydi, kunduzi ham uxlamaydi! Quyosh botib tun kirsa, osmonda chaqnab porlaydi! 🎵",
+      "sfx": "Suno AI Children's Outro Song (outro_song.mp3)"
+    }
+  ]
+}

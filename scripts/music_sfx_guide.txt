@@ -1,0 +1,1 @@
+Ushbu skript assets/audio_prompts.json ni o‘qiydi va ElevenLabs Sound Generation API’ga so‘rov yuborib, har bir epizodning audio/ papkasiga bg_music.mp3, ambience.mp3 hamda sfx/scene_01_sfx.mp3 ... scene_08_sfx.mp3 fayllarini yuklab beradi.

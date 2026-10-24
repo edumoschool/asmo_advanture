@@ -1,0 +1,123 @@
+{
+  "episode_title": "Asmoning sarguzashtlari - 2-qism: O‘simlik qanday chanqaydi?",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "base_character_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Bright, warm lighting, high detail, 8k resolution.",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing on a sunny wooden veranda, holding a glass of orange juice with a colorful straw. In front of her on a small table is a terracotta pot with a drooping, wilted pink flower. Asmo looks at the sad flower with a worried, empathetic expression.",
+      "video_motion_prompt": "Asmo takes a sip of her orange juice, then stops and leans closer to the wilted pink flower, tilting her head with a sad and curious expression. The flower droops slightly.",
+      "voiceover_uz": "Voy, gulchamga nima bo‘ldi? U ham men kabi issiqda chanqab qolibdi-ku!",
+      "sfx": "Straw slurp sound followed by a sad cartoon trombone womp-womp"
+    },
+    {
+      "scene_id": "scene_02",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Close-up shot of Asmo smiling excitedly, holding her glass of bright orange juice right above the terracotta flower pot, ready to pour it onto the wilted pink flower.",
+      "video_motion_prompt": "Asmo's eyes light up with an idea, she smiles widely and tilts the glass of orange juice slightly toward the flower pot as if about to pour it.",
+      "voiceover_uz": "Hozir senga o‘zimning shirin apelsin sharbatimdan beraman! Darrov kuchga to‘lasan!",
+      "sfx": "Bright idea ding sound and cute giggle"
+    },
+    {
+      "scene_id": "scene_03",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Medium shot of Asmo pausing with her juice glass as a kind elderly Uzbek grandmother with a warm smile and traditional headscarf gently hands Asmo a cute small blue watering can filled with clear water.",
+      "video_motion_prompt": "The grandmother gently shakes her head with a warm smile and offers the small blue watering can to Asmo. Asmo looks surprised and puts her juice glass down on the table.",
+      "voiceover_uz": "Iya, buvijon! Nega gullarga shirin sharbat mumkin emas? Ular faqat toza suv ichadimi?",
+      "sfx": "Gentle cartoon stop sound, warm acoustic guitar note"
+    },
+    {
+      "scene_id": "scene_04",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is holding the small blue watering can with both hands, carefully pouring sparkling clear water onto the soil of the flower pot. Water droplets glisten in the warm sunlight.",
+      "video_motion_prompt": "Clear water pours gently from the spout of the blue watering can onto the dry soil. Asmo watches closely with big curious eyes as the soil absorbs the water.",
+      "voiceover_uz": "Ana, toza suv quydik! Lekin gulning og‘zi yo‘q-ku, u suvni qanday qilib ichadi?",
+      "sfx": "Gentle water pouring and splashing droplets sound",
+      "voiceover_tts": "Ana, toza suv kuydik! Lekin gulning og‘zi yo‘q-ku, u suvni qanday qilib ichadi?"
+    },
+    {
+      "scene_id": "scene_05",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Educational 3D Pixar style cutaway view of the terracotta flower pot. Asmo is looking through her yellow magnifying glass at the side of the pot. Inside the soil, glowing blue water droplets are traveling up through the plant's roots like a drinking straw.",
+      "video_motion_prompt": "Glowing blue water bubbles move upward from the roots through the green stem of the flower. Asmo watches through her magnifying glass in amazement, her mouth open in a cute wow expression.",
+      "voiceover_uz": "Voy, qaranglar! Gulning tuproq tagidagi ildizlari xuddi naychaga o‘xshab suvni tepaga tortar ekan!",
+      "sfx": "Magical bubbling and upward whoosh sound effect"
+    },
+    {
+      "scene_id": "scene_06",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Close-up of the pink flower in the terracotta pot now standing tall, vibrant, and fully bloomed under bright warm sunbeams. Green leaves are fresh and perky. Asmo is clapping her hands in the background with pure joy.",
+      "video_motion_prompt": "The drooping pink flower magically lifts its stem, unfolds its bright pink petals, and sparkles in the sunlight. Asmo jumps and claps her hands happily.",
+      "voiceover_uz": "Urra! Toza suv va quyosh nuri gulchamga kuch berdi! U yana chiroyli bo‘lib ochildi!",
+      "sfx": "Magical sparkle chime and happy child clapping"
+    },
+    {
+      "scene_id": "scene_07",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Asmo is standing next to the healthy, blooming pink flower on the veranda, happily drinking clear water from a glass. Both Asmo and the flower look refreshed and happy in the warm sunlight.",
+      "video_motion_prompt": "Asmo finishes drinking her water, lowers the glass with a refreshed smile, and gently touches one petal of the blooming pink flower.",
+      "voiceover_uz": "Demak, o‘simliklar ham, biz ham sog‘lom o‘sishimiz uchun toza suv ichishimiz kerak ekan!",
+      "sfx": "Refreshing water drink sound and cheerful melody"
+    },
+    {
+      "scene_id": "scene_08",
+      "duration": 5,
+      "image_prompt": "3D Pixar style animation, vertical 9:16 aspect ratio. Asmo, a cute 5-year-old Uzbek girl with big curious brown eyes, round cheeks, and black hair tied in two bouncy pigtails with yellow hairbands. She is wearing colorful yellow overalls over a white striped t-shirt, and red sneakers. Medium shot of Asmo facing the camera directly, holding the small blue watering can in one hand and waving cheerfully with the other. The bright pink flower blooms right next to her.",
+      "video_motion_prompt": "Asmo waves enthusiastically at the camera with a big bright smile, tilting the blue watering can playfully. Upbeat cheerful ending.",
+      "voiceover_uz": "Siz uyingizdagi gullarga suv quyib turasizmi? Izohlarda yozing! Keyingi sarguzashtgacha xayr!",
+      "sfx": "Upbeat musical outro chord and cute pop sound"
+    }
+  ],
+  "song": {
+    "title": "Suv Ber Gulchaga",
+    "file": "assets/gulga_suv_ber.mp3",
+    "start": 6.8,
+    "end": 31.5,
+    "volume": 0.6,
+    "scenes": [
+      {
+        "scene_id": "song_01",
+        "duration": 8.1,
+        "video_motion_prompt": "Asmo dances happily on the veranda to the music, wags her finger 'no' at the glass of orange juice, singing, then picks up the blue watering can and waters the pink flower. Static camera."
+      },
+      {
+        "scene_id": "song_02",
+        "duration": 4.0,
+        "video_motion_prompt": "Asmo stretches up on tiptoes with both arms raised high like a growing plant, singing, while the pink flower beside her stretches taller toward the sun. Static camera."
+      },
+      {
+        "scene_id": "song_03",
+        "duration": 2.3,
+        "video_motion_prompt": "Asmo hugs the terracotta flower pot happily, then spins around once, singing. Static camera."
+      },
+      {
+        "scene_id": "song_04",
+        "video_motion_prompt": "Asmo and the grandmother wave goodbye to the camera together, smiling and singing, as sparkles float around the blooming pink flower. Slow gentle camera push-in."
+      }
+    ],
+    "lyrics": [
+      {
+        "start": 10.8,
+        "end": 14.85,
+        "text": "♪ Shirin sharbat kerakmas, toza suv ber gulchaga! ♪"
+      },
+      {
+        "start": 15.05,
+        "end": 19.0,
+        "text": "♪ Ildizlari suv ichib, bo‘y cho‘zadi quyoshga! ♪"
+      },
+      {
+        "start": 19.2,
+        "end": 21.15,
+        "text": "♪ Yashnayvergin, gulginam! ♪"
+      },
+      {
+        "start": 21.3,
+        "end": 24.3,
+        "text": "♪ Ko‘rishguncha, xayr do‘stlar! ♪"
+      }
+    ]
+  }
+}

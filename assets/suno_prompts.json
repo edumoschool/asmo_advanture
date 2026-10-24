@@ -1,0 +1,39 @@
+{
+  "suno_settings": {
+    "recommended_version": "v3.5 or v4",
+    "mode": "Custom Mode",
+    "clip_duration_sec": 12
+  },
+  "episodes": {
+    "ep01_shadows": {
+      "title": "Soya mening dostim",
+      "style": "Upbeat Pixar style kids song, bouncy ukulele, playful marimba, handclaps, cute cheerful little girl voice, sunny vibe, 125 bpm",
+      "lyrics_uz": "[Short Instrumental Intro]\n[Catchy Chorus: Cute Girl Vocal]\nQuyosh chiqsa yugurib,\nOrqamdan qolmas soyam!\nMen sakrasam — u sakrar,\nQuvnoq dostimdir soyam!\n[Outro]\nSoya, soya — quvnoq soyam!\nKo-rish-gun-cha, xayr dostlar!\n[Big Finish]\n[End]",
+      "subtitle_uz": "🎵 Quyosh chiqsa yugurib, orqamdan qolmas soyam! Men sakrasam — u sakrar, quvnoq do‘stimdir soyam! 🎵"
+    },
+    "ep02_plants": {
+      "title": "Suv ichadi gulcham",
+      "style": "Warm acoustic children's cartoon song, gentle guitar, kalimba, glockenspiel, cute young girl vocals, joyful nature vibe, 115 bpm",
+      "lyrics_uz": "[Short Intro]\n[Catchy Chorus: Cute Girl Vocal]\nShirin sharbat kerakmas,\nToza suv ber gulchaga!\nIldizlari suv ichib,\nBoy chozadi quyoshga!\n[Outro]\nYashnayvergin, gulginam!\nKo-rish-gun-cha, xayr dostlar!\n[Big Finish]\n[End]",
+      "subtitle_uz": "🎵 Shirin sharbat kerakmas, toza suv ber gulchaga! Ildizlari suv ichib, bo‘y cho‘zadi quyoshga! 🎵"
+    },
+    "ep03_toothbrush": {
+      "title": "Tishlarim oppoq",
+      "style": "Energetic cartoon superhero kids song, bouncy piano, xylophone, brass stabs, upbeat drums, cute girl vocal, fun morning routine, 128 bpm",
+      "lyrics_uz": "[Short Intro]\n[Catchy Chorus: Cute Girl Vocal]\nTepadan pastga — chuv-chuv-chuv!\nMikroblarni quv-quv-quv!\nErtalab va kechqurun,\nTishlarimni yuv-yuv-yuv!\n[Outro]\nYulduzdek porlar tishim!\nKo-rish-gun-cha, xayr dostlar!\n[Big Finish]\n[End]",
+      "subtitle_uz": "🎵 Tepadan pastga — chuv-chuv-chuv! Mikroblarni quv-quv-quv! Ertalab va kechqurun, tishlarimni yuv-yuv-yuv! 🎵"
+    },
+    "ep04_bees": {
+      "title": "Vizz-vizz asalari",
+      "style": "Whimsical garden cartoon song for kids, pizzicato strings, playful flute, ukulele, cute young girl vocals, happy bouncy tempo, 122 bpm",
+      "lyrics_uz": "[Short Intro]\n[Catchy Chorus: Cute Girl Vocal]\nVizz-vizz etar qanoti,\nGuldan gulga uchadi!\nMehnatkash asalari,\nShirin asal yigadi!\n[Outro]\nRahmat senga, bol-ari!\nKo-rish-gun-cha, xayr dostlar!\n[Big Finish]\n[End]",
+      "subtitle_uz": "🎵 Vizz-vizz etar qanoti, guldan gulga uchadi! Mehnatkash asalari, shirin asal yig‘adi! 🎵"
+    },
+    "ep05_sharing": {
+      "title": "Birga oynash qanday soz",
+      "style": "Heartwarming joyful kids friendship song, acoustic guitar, upbeat piano, tambourine, cute children singing together, cheerful, 120 bpm",
+      "lyrics_uz": "[Short Intro]\n[Catchy Chorus: Cute Kids Vocals]\nOyinchoqni bolishsak,\nIkki hissa kop quvonch!\nBirga qurdik kopriklar,\nDostlik — bu katta ishonch!\n[Outro]\nBirga oynash qanday soz!\nKo-rish-gun-cha, xayr dostlar!\n[Big Finish]\n[End]",
+      "subtitle_uz": "🎵 O‘yinchoqni bo‘lishsak, ikki hissa ko‘p quvonch! Birga o‘ynash qanday soz! 🎵"
+    }
+  }
+}
