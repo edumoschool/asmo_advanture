@@ -445,7 +445,9 @@ def assemble_episode_video_ffmpeg(ep_name, output_file=None):
             k = len(parts)
             if intro_src == INTRO_VIDEO:
                 v = inp(INTRO_VIDEO)
-                vsrc = (f"[{v}:v]tpad=stop_mode=clone:stop_duration=3,trim=0:{d:.3f},setpts=PTS-STARTPTS,"
+                # Intro klipi qisqa bo'lsa, oxirgi kadrda qotib qolmasligi uchun sekinlashtiriladi
+                stretch = max(1.0, d / media_duration(INTRO_VIDEO))
+                vsrc = (f"[{v}:v]setpts={stretch:.4f}*(PTS-STARTPTS),tpad=stop_mode=clone:stop_duration=3,trim=0:{d:.3f},setpts=PTS-STARTPTS,"
                         f"scale=1080:1920:flags=lanczos,setsar=1,fps=30")
             else:
                 v = inp(INTRO_IMAGE, pre=["-loop", "1", "-framerate", "30", "-t", f"{d:.3f}"])
@@ -485,12 +487,14 @@ def assemble_episode_video_ffmpeg(ep_name, output_file=None):
                 continue
 
             # Ovoz oldingi sahnadan o'tish tugagach boshlanadi; sahna rejadagi davomiylik yoki ovoz + o'tish + 0.3 s
-            # (qaysi biri uzun bo'lsa). Ovoz klipdan uzun bo'lsa, oxirgi kadr ushlab turiladi - ovoz kesilmaydi.
+            # (qaysi biri uzun bo'lsa). Ovoz klipdan uzun bo'lsa, klip sahnaga yetadigan qilib sekinlashtiriladi
+            # (oxirgi kadrda qotib qolmaydi) - ovoz kesilmaydi.
             k = len(parts)
             lead = T if k > 0 else 0.0
             clip_len = media_duration(video_path)
             voice_len = media_duration(voice_path) if os.path.exists(voice_path) else None
             dur = max(scene.get("duration", clip_len), (voice_len + lead + 0.3) if voice_len else 0)
+            stretch = max(1.0, dur / clip_len)
 
             sub_png = os.path.join(tmp, f"{scene_id}.png")
             subtitle_image(scene["voiceover_uz"]).save(sub_png)
@@ -498,7 +502,7 @@ def assemble_episode_video_ffmpeg(ep_name, output_file=None):
             v, s = inp(video_path), inp(sub_png)
             # Subtitr o'tishlar paytida ko'rinmaydi, shunda ikki sahnaning matni ustma-ust tushmaydi
             filters.append(
-                f"[{v}:v]tpad=stop_mode=clone:stop_duration={dur:.3f},trim=0:{dur:.3f},setpts=PTS-STARTPTS,"
+                f"[{v}:v]setpts={stretch:.4f}*(PTS-STARTPTS),tpad=stop_mode=clone:stop_duration={dur:.3f},trim=0:{dur:.3f},setpts=PTS-STARTPTS,"
                 f"scale=1080:1920:flags=lanczos,setsar=1,fps=30[vb{k}];"
                 f"[vb{k}][{s}:v]overlay=x=(W-w)/2:y=1420:eof_action=repeat:enable='between(t,{lead:.3f},{dur - T:.3f})',"
                 f"format=yuv420p,settb=AVTB[v{k}]"
@@ -540,7 +544,8 @@ def assemble_episode_video_ffmpeg(ep_name, output_file=None):
                 labels = []
                 for i, (sc, path) in enumerate(zip(song["scenes"], song_paths)):
                     d = sc["duration"] if i < len(song_paths) - 1 else song_len - fixed
-                    filters.append(f"[{inp(path)}:v]tpad=stop_mode=clone:stop_duration={d:.3f},trim=0:{d:.3f},setpts=PTS-STARTPTS,"
+                    stretch = max(1.0, d / media_duration(path))
+                    filters.append(f"[{inp(path)}:v]setpts={stretch:.4f}*(PTS-STARTPTS),tpad=stop_mode=clone:stop_duration={d:.3f},trim=0:{d:.3f},setpts=PTS-STARTPTS,"
                                    f"scale=1080:1920:flags=lanczos,setsar=1,fps=30[sv{k}_{i}]")
                     labels.append(f"[sv{k}_{i}]")
                 chain = f"{''.join(labels)}concat=n={len(labels)}:v=1:a=0"
