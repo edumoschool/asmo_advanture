@@ -1,0 +1,11 @@
+{
+  "covers": {
+    "ep03_toothbrush": {
+      "cover_prompt": "Eye-catching kids' video cover. Asmo, a cute 5-year-old cartoon girl with big brown eyes, round rosy cheeks, black hair in two bouncy pigtails with yellow hairbands, yellow overalls over a red-and-white striped t-shirt, red sneakers, stands in a confident superhero pose in the lower half of the frame, one fist on her hip, the other hand raising a shiny blue toothbrush high like a sword, a tiny red cape tied to the toothbrush handle fluttering. She beams a huge proud smile with sparkling clean white teeth and a bright star glint on her tooth. Three tiny cute fuzzy purple sugar-monsters run away comically at her feet. Behind her the same bright colorful bathroom with the round wooden mirror and rainbow tiles, softly blurred, with glowing light rays and sparkles. The top third of the image is calm, uncluttered and bright (soft warm light and bokeh) leaving empty space for a title. Low camera angle, vibrant saturated colors, 3D Pixar style animation, vertical 9:16, high detail.",
+      "reference_images": ["asset:Asmo", "episodes/ep03_toothbrush/images/scene_03.jpeg"],
+      "title_overlay_uz": "TISH\nCHO‘TKASI\nQAHRAMON!",
+      "font_size": 115,
+      "title_y": 450
+    }
+  }
+}
